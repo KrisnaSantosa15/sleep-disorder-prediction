@@ -2,7 +2,7 @@
 
 import tensorflow as tf
 import tensorflow_transform as tft
-from tensorflow.keras import layers  # pylint: disable=import-error
+from tensorflow.keras import layers
 from tfx.components.trainer.fn_args_utils import FnArgs
 
 NUMERIC_FEATURES = [

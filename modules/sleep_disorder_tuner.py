@@ -4,7 +4,7 @@ from typing import NamedTuple, Dict, Text, Any
 import kerastuner as kt
 import tensorflow as tf
 import tensorflow_transform as tft
-from tensorflow.keras import layers  # pylint: disable=import-error
+from tensorflow.keras import layers
 from kerastuner.engine import base_tuner
 from tfx.components.trainer.fn_args_utils import FnArgs
 
