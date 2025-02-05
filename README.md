@@ -1,4 +1,4 @@
-# Submission 1: Prediksi Gangguan Tidur (Sleep Disorder)
+# Submission 2: Prediksi Gangguan Tidur (Sleep Disorder)
 Nama: Krisna Santosa
 
 Username dicoding: `krisna_santosa`
